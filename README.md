@@ -7,7 +7,7 @@ There is also an option to reset all the files.
 
 IMPORTANT FOR PREVENTING ANY ERRORS!
 1) When the user is asked his/her name only type the First name without any space. (Space can create an issue while extracting the data from file during displaying it in console)
-2) If the program gets any error just reset the files by  running the program, then press 3 and enter, and 1- enter for confirmation. All the issues will files will get solve with this!
+2) If the program gets any error just reset the files by  running the program, then press 3 and enter, and 1- enter for confirmation. All the issues of files will get solve with this!
 
 If you find the program useful and have any issue regarding it, feel free to talk to me!
 Thank you!
